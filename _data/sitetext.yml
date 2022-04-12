@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: marketplaces
     list:
-      - title: "E-Commerce"
+      - title: "[NFTz.ZONE](https://nftz.zone/)"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        image: "https://bitcloutweb.azureedge.net/public/icons/icon-transparant-256x256.png"
+      - title: "[PolyGram](https://polygram.cc/)"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        image: "https://pbs.twimg.com/profile_images/1495001638230274049/whmxpDDx_400x400.jpg"
+      - title: "[Supernovas](https://supernovas.app/home)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        image: "https://pbs.twimg.com/profile_images/1493604482395082752/zcc8Ros6_400x400.jpg"
 
   portfolio:
     title: "Portfolio"
