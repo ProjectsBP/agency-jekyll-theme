@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#marketplaces"
 
-  services:
-    title: "Services"
+  marketplaces:
+    title: "Marketplaces"
     text: "Lorem ipsum"
-    section: services
+    section: marketplaces
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -173,12 +173,12 @@ es: &DEFAULT_ES
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
     button: Ver más
-    buttonlink: "#servicios"
+    buttonlink: "#marketplaces"
 
-  services:
-    title: "Servicios"
+  marketplaces:
+    title: "Marketplaces"
     text: "Lorem ipsum"
-    section: servicios
+    section: marketplaces
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
