@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to Bearz Collection!
+    text: Avalible on DeSo Blockchain
+    button: Get yours now!
     buttonlink: "#marketplaces"
 
   marketplaces:
